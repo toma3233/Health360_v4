@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Health360_v2</string>
+    <string name="hi">HI</string>
+    <string name="picture_of_the_app_logo">picture of the app logo</string>
+    <string name="home">HOME</string>
+    <string name="enter_with_camera">Enter Using Camera</string>
+    <string name="weight">current weight (lbs)</string>
+    <string name="calories">Calories</string>
+    <string name="carbs">amount of carbs</string>
+    <string name="fiber">amount of fiber (g)</string>
+    <string name="protein">amount of protein (g)</string>
+    <string name="sodium">sodium (mg)</string>
+    <string name="spinner_text">Select Meal</string>
+    <string name="add">SUBMIT</string>
+    <string name="submit">SUBMIT</string>
+    <string name="records">RECORDS</string>
+    <string name="enter_date">Enter Date (DD-MM-YYYY)</string>
+    <string name="servings">servings</string>
+    <string name="open_camera">Open Camera</string>
+</resources>
